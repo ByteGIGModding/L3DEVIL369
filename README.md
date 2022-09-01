@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://piin.dev"><img src="https://github.com/Octowolve/Octowolve/blob/main/PiinLogoBlue.png" width="100" height="100"/></a>
+</p>
+
 <h1 align="center">Hi 👋, I'm L3DEVIL</h1>
 <h3 align="center">A passionate backend developer from Brasil</h3>
 
