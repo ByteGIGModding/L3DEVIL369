@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://piin.dev"><img src="https://github.com/Octowolve/Octowolve/blob/main/PiinLogoBlue.png" width="100" height="100"/></a>
+  <a href="https://piin.dev"><img src="https://github.com/L3DEVIL369/L3DEVIL369/blob/main/photo_2022-09-01_00-38-35.jpg" width="100" height="100"/></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm L3DEVIL</h1>
